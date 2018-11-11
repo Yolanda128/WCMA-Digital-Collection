@@ -1,9 +1,9 @@
 
 ## How to launch the shiny app? 
 
-In order to successfully launch the shiny app locally, you need to download the complete set of WCMA digital collection to your Desktop from: https://rs.williams.edu/pages/view.php?ref=92421&k=0e4c94d372. 
+Step 1: In order to successfully launch the shiny app locally, you need to download the complete set of WCMA digital collection to your Desktop from: https://rs.williams.edu/pages/view.php?ref=92421&k=0e4c94d372. 
 
-Go to shiny folder and run app.R - have fun exploring the WCMA collection! 
+Step 2 Run app.R - have fun exploring the WCMA collection! 
 
 ## cluster_analysis
 
